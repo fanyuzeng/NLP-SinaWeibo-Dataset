@@ -13,6 +13,5 @@ It contains more than 360,000 sina weibo comments.
 ## Overall feature
 
 Name  | Type  | Field Counts | Lines | Default Value | Related Task
- ---- | ----- | ------  
- 单元格内容  | 单元格内容 | 单元格内容 
- 单元格内容  | 单元格内容 | 单元格内容  
+:-----------:|:------------:|:-----:|:-----:|:-----:|:-----:|
+simplifyweibo_4_moods.csv | String, Numeric | 2 | 361744 | NA | NLP
