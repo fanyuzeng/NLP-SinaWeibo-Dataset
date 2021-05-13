@@ -1,5 +1,5 @@
 # NLP-SinaWeibo-Dataset
-This is a translation for [NLP-SinaWeibo Dataset](https://www.datafountain.cn/datasets/54).
+This is the english translation for chinese [NLP-SinaWeibo Dataset](https://www.datafountain.cn/datasets/54).
 
 
 This dataset contains more than 360,000 sina weibos comments labeled with emotions, including about 200,000 items of joy, and about 50,000 items of happiness, anger, disgust and depression.
